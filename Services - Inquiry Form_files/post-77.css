@@ -1,0 +1,52 @@
+.elementor-77 .elementor-element.elementor-element-7fab1c3{--display:flex;}.elementor-77 .elementor-element.elementor-element-e380ac4 > .elementor-widget-container{margin:0px 45px 0px 45px;}.elementor-77 .elementor-element.elementor-element-d94a33f{--display:flex;}:root{--page-title-display:none;}/* Start custom CSS for wpforms, class: .elementor-element-e380ac4 */.elementor-77 .elementor-element.elementor-element-e380ac4 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+/* رنگ پس‌زمینه منوی بازشونده در بیشتر مرورگرها */
+.my-custom-dropdown {
+  background-color: #ffffff; /* رنگ کادر اصلی */
+  color: #000;
+}
+
+/* رنگ آیتم‌های منوی بازشونده (در برخی مرورگرها قابل اعمال است) */
+.my-custom-dropdown option {
+  background-color: #fff2cc; /* پس‌زمینه لیست بازشونده */
+  color: #333; /* رنگ نوشته */
+}
+
+
+.wpforms-submit-container {
+  text-align: center !important;
+}
+
+.wpforms-submit {
+  display: inline-block !important;
+  float: none !important;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-7fab1c3 */.elementor-77 .elementor-element.elementor-element-7fab1c3 .wpforms-field.my-custom-dropdown select {
+  background-color: #e0f7fa;
+  color: #000;
+}
+
+/* حالت اولیه: فرم کاملاً مخفی است */
+.form-animate-up {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.6s ease-in-out;
+}
+
+/* حالت فعال: انیمیشن اجرا می‌شود */
+.form-animate-up.show {
+  opacity: 1;
+  transform: translateY(0);
+}/* End custom CSS */
+/* Start custom CSS */<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const requiredLabels = document.querySelectorAll('.wpforms-field.wpforms-field-required .wpforms-field-label');
+    requiredLabels.forEach(function (label) {
+      if (!label.textContent.includes('الزامی')) {
+        label.innerHTML += ' <span style="color:red; font-size: 0.85em;">(الزامی)</span>';
+      }
+    });
+  });
+</script>/* End custom CSS */
