@@ -1,0 +1,163 @@
+.elementor-47 .elementor-element.elementor-element-155f50d{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:20px;--padding-bottom:20px;--padding-left:20px;--padding-right:20px;--z-index:0;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-47 .elementor-element.elementor-element-ca5f7d5{margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 50px;text-align:center;}.elementor-47 .elementor-element.elementor-element-ca5f7d5.elementor-element{--align-self:center;--order:-99999 /* order start hack */;}.elementor-47 .elementor-element.elementor-element-ca5f7d5 .elementor-heading-title{font-family:"Marcellus", Sans-serif;font-size:1.7rem;font-weight:400;font-style:normal;line-height:1.2em;letter-spacing:-0.02em;color:#ECE4DA;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-47 .elementor-element.elementor-element-b31b762{margin:0px 50px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;}.elementor-47 .elementor-element.elementor-element-b31b762.elementor-element{--order:99999 /* order end hack */;}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-menu-toggle{margin:0 auto;}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu .elementor-item{font-family:"PT Serif", Sans-serif;font-size:1.4rem;font-weight:500;font-style:normal;line-height:1.5em;letter-spacing:0em;}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-65a86a2 );fill:var( --e-global-color-65a86a2 );}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a, .elementor-47 .elementor-element.elementor-element-b31b762 .elementor-menu-toggle{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown{background-color:var( --e-global-color-secondary );}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a:hover,
+					.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-menu-toggle:hover{color:var( --e-global-color-text );}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a:hover,
+					.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a.highlighted{background-color:var( --e-global-color-secondary );}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown a.elementor-item-active{color:var( --e-global-color-accent );}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown .elementor-item, .elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"PT Serif", Sans-serif;font-weight:400;}.elementor-47 .elementor-element.elementor-element-b31b762 div.elementor-menu-toggle{color:var( --e-global-color-accent );}.elementor-47 .elementor-element.elementor-element-b31b762 div.elementor-menu-toggle svg{fill:var( --e-global-color-accent );}@media(max-width:767px){.elementor-47 .elementor-element.elementor-element-155f50d{--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--z-index:999;}.elementor-47 .elementor-element.elementor-element-ca5f7d5{margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;text-align:center;}.elementor-47 .elementor-element.elementor-element-b31b762{width:var( --container-widget-width, 30px );max-width:30px;margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;--container-widget-width:30px;--container-widget-flex-grow:0;--nav-menu-icon-size:20px;}.elementor-47 .elementor-element.elementor-element-b31b762.elementor-element{--align-self:center;--order:99999 /* order end hack */;}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown .elementor-item, .elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:0.9rem;letter-spacing:0em;}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-47 .elementor-element.elementor-element-b31b762 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:15px !important;}.elementor-47 .elementor-element.elementor-element-b31b762 .elementor-menu-toggle{border-width:0px;}}/* Start custom CSS for heading, class: .elementor-element-ca5f7d5 *//* استایل تایتل هدر - لینک همیشه یک‌رنگ */
+.header-title-fixed a,
+.header-title-fixed a:hover,
+.header-title-fixed a:visited,
+.header-title-fixed a:focus,
+.header-title-fixed a:active {
+  color: #ECE4DA !important;
+  text-decoration: none;
+}
+
+/* اگه توش از <strong> استفاده کردی */
+.header-title-fixed a strong {
+  color: #ECE4DA !important;
+  font-weight: bold;
+}/* End custom CSS */
+/* Start custom CSS for nav-menu, class: .elementor-element-b31b762 *//******************************
+ * Header Main Menu – FINAL CLEAN (NO HOVER ANYWHERE)
+ ******************************/
+
+/* 1) چیدمان منوی اصلی هدر (دسکتاپ) */
+.scroll-aware-header .only-header-menu #menu-1-b31b762 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+/* آیتم‌ها کش نیان و بین‌شون فاصله باشه */
+.scroll-aware-header .only-header-menu #menu-1-b31b762 > li {
+  flex: 0 0 auto;
+  padding-inline: 16px;           /* فاصله افقی بین گزینه‌ها */
+}
+
+/* لینک‌ها: باکس دور متن + فاصله عمودی برای خط */
+.scroll-aware-header .only-header-menu #menu-1-b31b762 > li > a.elementor-item {
+  position: relative;
+  display: inline-block;
+  padding: 0 0 0px;              /* فقط پایین برای جا دادن خط */
+  line-height: 1.2;
+  text-decoration: none !important;
+  box-sizing: border-box;
+}
+
+/* اجازه بده والدهای المنتوری جمع بشن (جلوگیری از اسکرول افقی) */
+.elementor-container,
+.elementor-row,
+.elementor-column,
+.elementor-widget-wrap,
+.elementor-nav-menu--main {
+  min-width: 0;
+}
+
+/* 2) خط زیر آیتم‌های منوی اصلی – فقط برای صفحه فعلی */
+
+/* پایه: همه لینک‌ها یک ::after شفاف هم‌عرض خود لینک دارند */
+.scroll-aware-header .only-header-menu #menu-1-b31b762 > li > a.elementor-item::after {
+  content: "";
+  position: absolute;
+  left: 0;                        /* از 0 تا 100٪ خود لینک */
+  right: 0;
+  bottom: 0;                      /* پایین padding لینک */
+  height: 0.5px;
+  background-color: transparent;  /* پیش‌فرض نامرئی */
+  pointer-events: none;
+}
+
+/* فقط صفحه فعلی خط می‌گیرد – نه hover، نه کلیک موقت */
+.scroll-aware-header .only-header-menu #menu-1-b31b762 > li.current-menu-item > a.elementor-item::after,
+.scroll-aware-header .only-header-menu #menu-1-b31b762 > li.current_page_item > a.elementor-item::after,
+.scroll-aware-header .only-header-menu #menu-1-b31b762 > li > a.elementor-item[aria-current="page"]::after {
+  background-color: #ECE4DA;
+}
+
+/* 3) ریسپانسیو برای منوی اصلی (کم‌کم جمع‌تر شدن فاصله li ها) */
+
+@media (max-width: 1240px) {
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 {
+    gap: 1rem;
+  }
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 > li {
+    padding-inline: calc(var(--menu-pad-x, 12px));
+  }
+}
+
+@media (max-width: 1140px) {
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 {
+    gap: 0.75rem;
+  }
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 > li {
+    padding-inline: 10px;
+  }
+}
+
+@media (max-width: 1060px) {
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 {
+    gap: 0.5rem;
+  }
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 > li {
+    padding-inline: 8px;
+  }
+  .scroll-aware-header .only-header-menu #menu-1-b31b762 > li > a.elementor-item {
+    font-size: 1.0em;
+  }
+}
+
+/* 4) منوی همبرگری (Dropdown) – فقط صفحه فعلی خط دارد، و هاور کاملاً خنثی است */
+
+@media (max-width: 720px) {
+
+  /* کمی فاصله افقی بین آیتم‌ها در منوی بازشونده */
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li {
+    padding-inline: 16px;
+  }
+
+  /* لینک‌ها در منوی همبرگری */
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li > a.elementor-item {
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0px;             /* فقط پایین برای خط */
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  /* پایهٔ خط در همبرگری: شفاف، هم‌عرض لینک */
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li > a.elementor-item::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 0.5px;
+    background-color: transparent !important;
+    pointer-events: none;
+  }
+
+  /* صریحاً: هرگونه hover / focus / active در موبایل خط رو نشون نده */
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li > a.elementor-item:hover::after,
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li > a.elementor-item:focus::after,
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li > a.elementor-item:active::after {
+    background-color: transparent !important;
+  }
+
+  /* فقط صفحه فعلی در منوی همبرگری خط می‌گیرد */
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li.current-menu-item > a.elementor-item::after,
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li.current_page_item > a.elementor-item::after,
+  .elementor-nav-menu--dropdown .elementor-nav-menu > li > a.elementor-item[aria-current="page"]::after {
+    background-color: #ECE4DA !important;
+  }
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-155f50d */body:not(.page-id-199):not(.page-id-425):not(.page-id-16):not(.page-id-77):not(.page-id-3287) #masthead {
+    background-color: #574c3f;
+}/* End custom CSS */
