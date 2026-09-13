@@ -1,0 +1,45 @@
+.elementor-kit-6{--e-global-color-primary:#36302A;--e-global-color-secondary:#574C3F;--e-global-color-text:#B9A590;--e-global-color-accent:#ECE4DA;--e-global-color-65a86a2:#F6F3EC;--e-global-typography-primary-font-family:"Marcellus";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"PT Serif";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"PT Serif";--e-global-typography-text-font-size:1.4rem;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.5em;--e-global-typography-text-letter-spacing:0em;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;background-color:var( --e-global-color-primary );color:var( --e-global-color-65a86a2 );font-family:"PT Serif", Sans-serif;font-weight:400;font-style:normal;line-height:1.5em;letter-spacing:0em;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-kit-6 h1{color:var( --e-global-color-text );font-family:"Marcellus", Sans-serif;font-weight:400;font-style:normal;line-height:1.2em;letter-spacing:-0.02em;}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{font-family:"PT Serif", Sans-serif;font-size:1rem;font-weight:400;font-style:normal;letter-spacing:0em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){--kit-widget-spacing:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}   {display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-kit-6{--e-global-typography-text-font-size:1rem;--e-global-typography-text-line-height:1.5em;--e-global-typography-text-letter-spacing:0em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6{--e-global-typography-text-font-size:0.9rem;--e-global-typography-text-line-height:1.5em;--e-global-typography-text-letter-spacing:0em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.square-text {
+  max-width: 800px !important; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 70px !important;
+}
+
+@media (max-width: 768px) {
+  .square-text {
+    max-width: 500px !important; 
+  }
+}
+
+@media (max-width: 480px) {
+  .square-text {
+    max-width: 320px !important; 
+  }
+}
+
+.square-text1 {
+  max-width: 400px !important; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .square-text1 {
+    max-width: 300px !important; 
+  }
+}
+
+@media (max-width: 480px) {
+  .square-text1 {
+    max-width: 320px !important; 
+    margin-top: 70px !important;
+  margin-bottom: 70px !important;
+  }
+}/* End custom CSS */
